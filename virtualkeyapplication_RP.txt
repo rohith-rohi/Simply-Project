@@ -1,0 +1,15 @@
+package simplyproject;
+
+
+public class virtualkeyapplication {
+	
+
+
+public static void main(String[] args) {
+    	
+    	Welcomescreen welcome = new Welcomescreen();
+    	welcome.introWS();
+    	welcome.GetUserInput();
+
+}
+}
